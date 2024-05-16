@@ -53,3 +53,13 @@ The sim-racing equipment above represents my first entry into the hobby. As such
     - [Trak Racer TR160 MK4](https://trakracer.com/collections/simulators/products/tr160-mk4-racing-simulator)
 4. Setup & Breakdown - There is a short-term and long-term view. Long-term I have dedicated sim racing chassis (Including monitor and computer) so I no longer need to setup or breakdown anything. Short-term, I am going to need to continue to share some components for work, sim racing and other gaming. I'm looking into having the chassis and seat on wheels so I can quickly roll it in and out as needed.
 5. Space - Long term, with a dedicated sim rig, I will likely move it out of office and into another spot. 
+
+# Additional Equipment
+## Wheels & Wheelbases
+- [Gomez Sim Industries](https://gomezsimindustries.com/)
+- [Simucube](https://simucube.com)
+
+## Cockpits/Frames
+- [Racing Cockpits](https://racingcockpits.com/collections/cockpit-frames)
+- [Sim Lab](https://sim-lab.eu)
+- [Trak Racer](https://trakracer.com/)
