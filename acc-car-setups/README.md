@@ -2,10 +2,13 @@
 These are car setups that I have created. The table below details the setups, which cars and tracks they have been tested with as well as my notes.
 
 ## ACC Setup References
+These resources have helped me understand setup values and create better setups.
 - [HOW TO FIX OVERSTEER AND UNDERSTEER IN ACC](https://coachdaveacademy.com/tutorials/how-to-fix-oversteer-and-understeer-in-acc/)
 - [How to build your own car setup in ACC for every CAR using only 2 steps](https://www.youtube.com/watch?v=wqpRe7A9rag)
 - [How to build your own car setup in ACC for every CAR in 2 Steps (part2)](https://www.youtube.com/watch?v=0zLV-Td2-tY)
 - [How to build your own car setup in ACC for every CAR Part 3](https://www.youtube.com/watch?v=0qd8wmdywN4)
+- [How to Build the Perfect Setup FOR YOU in ACC 1.10 - Meta Setup Guide - Assetto Corsa Competizione](https://www.youtube.com/watch?v=uir0aLcOzsk)
+- [THE ULTIMATE ACC CAR SETUP GUIDE](https://coachdaveacademy.com/tutorials/the-ultimate-acc-car-setup-guide/)
 
 ## Experimentation Ideas
 ### Problem: Understeer
@@ -26,6 +29,12 @@ Ideas:
 - Lower differential preload.
 
 ## My Setup Details
+Note: This section was a table I started when building my first setup. I would track each change as a different version. As I expanded to additional cars and tracks, this method was no longer scalable, therefore this section is no longer updated. Here are a few notes to steer you to what you may be looking for:
+1. My setups are named Working_Vxx (Where xx starts at 01 and increments)
+2. My setups can be different between cars. That means Working_V05 for one car is likely different than the same version on another car.
+3. I learn as I go, so the most effective setup settings are likely the newest ones (Go by file date).
+4. Setups not following the Working_Vxx naming convention are those that I have downloaded elsewhere. These are free setups provided by others. Contact me if one of your setups is listed and I will make sure you get appropriate credit.
+
 <table>
   <tr>
     <th>Setup Name</th>

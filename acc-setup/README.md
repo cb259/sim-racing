@@ -5,6 +5,8 @@ In this area I detail my ACC setup, including any specific configurations, overl
 Items I am looking into.
 - [Low Fuel Motorsports (LFM)](https://lowfuelmotorsport.com/)
 - [Sim Grid](https://www.thesimgrid.com/)
+- [Sim Racing Setups - ACC](https://simracingsetup.com/setups/acc-setups/)
+- [Coach Dave Academy Delta 2.0](https://coachdaveacademy.com/delta/)
 - [ACTV Competizione](https://www.overtake.gg/downloads/actv-competizione.35499/)
     - Overlay for ACC
 - [Armamentario](https://armamentario.com/)
