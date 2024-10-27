@@ -55,6 +55,8 @@ The sim-racing equipment above represents my first entry into the hobby. As such
 5. Space - Long term, with a dedicated sim rig, I will likely move it out of office and into another spot. 
 
 # Additional Equipment
+## Software
+- [CrewChief](https://thecrewchief.org/)
 ## Wheels & Wheelbases
 - [Gomez Sim Industries](https://gomezsimindustries.com/)
 - [Simucube](https://simucube.com)
