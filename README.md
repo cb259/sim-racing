@@ -29,6 +29,8 @@ This area details my physical setup components.
 - Wheelbase: Simagic Alpha
 - Wheel: Simagic GT NEO
 - Pedals: Simagic P1000 (3 pedals)
+- Pedal Spings: Simagic P-ORP (Sping kit)
+    - [P-ORP Detail](https://www.youtube.com/watch?v=cAnUbBCR2c8)
 - Wheel Stand: Next Level Racing Wheel Stand 2.0
 
 ## How I use it all
